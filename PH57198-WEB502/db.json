@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Phạm Minh Quân",
+      "brand": "12345",
+      "description": "xư123",
+      "price": "0",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "quanpmph51798@gmail.com",
+      "password": "$2a$10$hrv1X6HEHGLKWXSpJNgyTey8lAlr87BsxXU4neCtvpuRNVjFwNsmW",
+      "name": "Phạm Minh Quân",
+      "id": 1
+    }
+  ]
+}
